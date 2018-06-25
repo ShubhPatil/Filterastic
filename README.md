@@ -12,3 +12,16 @@ It is an un-supervised machine learning algorithm which uses Haar-cascade classi
 3. Smile UI technique is mainly introduced for the people who are physically disabled in nature which are suffering from various diseases like:
   ALS, paralysis etc...
 4. With the help of smile UI every user can easily access the application with ease .
+
+# Installtion Guide :-
+
+1. Install Python 2.7 or +
+
+2. git clone https://github.com/ShubhPatil/Filterastic.git
+          OR
+   Download the zip file and extract it
+   
+3. Open the IDE & run the Filterastic.py file
+   
+
+
